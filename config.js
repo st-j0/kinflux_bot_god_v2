@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254110377776', 'kinflux bot', true],
-  ['+254110377776', 'zamzack254', true], 
+  ['50955296170', 'st-j', true],
+  ['50955296170', 'st-j', true], 
   [''] 
 ] //Number of owners
 
@@ -37,7 +37,7 @@ global.APIs = { // API Prefix
   fgmods: 'https://api-fgmods.ddns.net'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': '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'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,	
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = 'pm-bot'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.packname = 'st-j┃ᴮᴼᵀ' 
+global.author = 'not' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
 global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
